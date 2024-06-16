@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,meduza.io
-DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-KEYWORD,github
