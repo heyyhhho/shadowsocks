@@ -54,6 +54,8 @@ DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,kahoot
