@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,copilot
 DOMAIN-KEYWORD,kahoot
