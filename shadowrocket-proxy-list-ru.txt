@@ -397,6 +397,7 @@ DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,torrent.by
 DOMAIN-SUFFIX,tr.anidub.com
 DOMAIN-SUFFIX,tracker.opentrackr.org
+DOMAIN_SUFFIX,tradingview.com
 DOMAIN-SUFFIX,trafficjunky.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tutanota.com
