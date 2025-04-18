@@ -207,6 +207,7 @@ DOMAIN-SUFFIX,kinokopilka.pro
 DOMAIN-SUFFIX,kinovod.net
 DOMAIN-SUFFIX,kinozal.me
 DOMAIN-SUFFIX,kinozal.tv
+DOMAIN-SUFFIX,komoot.com
 DOMAIN-SUFFIX,korrespondent.net
 DOMAIN-SUFFIX,kpapp.link
 DOMAIN-SUFFIX,l.facebook.com
